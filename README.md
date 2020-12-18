@@ -1,6 +1,5 @@
 # FlexboxItemCenter
 ### Overview Main Activity
-In this Activity we shows recyclerview item.
 <img src="https://github.com/sainivik/FlexboxItemCenter/blob/master/screenshots/flexbox_home_screen.png" width="300px" height="632px"/>
 #### Usage
 
