@@ -56,7 +56,6 @@ class MainActivity : AppCompatActivity() {
                 ViewGroup.LayoutParams.WRAP_CONTENT
             )
             lp.setMargins(0, 0, 10, 0)
-            // fragmentHelper.setFlexItemAttributes(lp)
             adapter.addItem(lp)
         }
         binding.removeFab.setOnClickListener(View.OnClickListener {
