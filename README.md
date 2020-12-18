@@ -2,7 +2,7 @@
 ### Overview Main Activity
 <img src="https://github.com/sainivik/FlexboxItemCenter/blob/master/screenshots/flexbox_home_screen.png" width="300px" height="632px"/>
 
-#### Usage
+## Usage
 
 Add the following code to your view
 
